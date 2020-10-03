@@ -2839,7 +2839,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0;
+		padding: 10em 0;
 		position: relative;
 	}
 
@@ -3338,7 +3338,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background: #5D77A0;
 		}
 
 		#header .logo {
@@ -3467,7 +3467,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #f64242;
+		background: #5D77A0;
 		box-shadow: none;
 		color: #ffffff;
 		height: 100%;
